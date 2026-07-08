@@ -1,5 +1,5 @@
 # AI Tutor using Google Gemini
-
+Demo : https://aitutorgemini-chandana02.streamlit.app/
 ## Features
 - Interactive AI Tutor
 - Subject & difficulty selection
